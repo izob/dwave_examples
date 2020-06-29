@@ -10,7 +10,7 @@ from dwave.system.composites import EmbeddingComposite
 
 
 # ! ------------- PARAMETERS D-WAVE -------------
-sapi_token = 'DEV-5dc2cb00522e49c24b53362c103eeadc1ca8034c'
+sapi_token = 
 url = 'https://cloud.dwavesys.com/sapi/'
 
 
